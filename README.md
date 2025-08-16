@@ -90,3 +90,4 @@ I'm a **self-taught innovator** passionate about building **real-world solutions
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=🚀%20Let's%20Build%20the%20Future!&fontSize=30&fontAlignY=65" />
 </p>
+
