@@ -69,24 +69,6 @@ I'm a **self-taught innovator** passionate about building **real-world solutions
 
 ---
 
-## 🎓 Certificates & Achievements  
-
-- 🏆 **Artificial Intelligence Specialization – EITCA Academy (2025)**  
-- 🏆 **Full-Stack Development – Robocode Academy (2024)**  
-- 🏆 **AI Career Essentials – ALX Africa (2025)**  
-- 🏆 **Python & AI Development – mimo Learn Code (2024)**  
-
----
-
-## 🌐 Languages  
-
-- 🇲🇦 Arabic & Tarifit: Native  
-- 🇫🇷 French: B2  
-- 🇬🇧 English: B2  
-- 🇩🇪 German: B2  
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=🚀%20Let's%20Build%20the%20Future!&fontSize=30&fontAlignY=65" />
 </p>
